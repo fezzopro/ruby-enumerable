@@ -28,9 +28,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-## 📖 Morse Decoder <a name="about-project"></a>
+## 📖 Enumerale <a name="about-project"></a>
 
-A simple Morse Decoder Ruby Script.
+A simple custom Enumerable Ruby Script.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,7 +47,7 @@ A simple Morse Decoder Ruby Script.
 
 ### Key Features <a name="key-features"></a>
 
-- **Morse Decoder**
+- **Customer Enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
